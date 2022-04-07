@@ -23,3 +23,15 @@ iOS: Hello World
 
 The IDE ( Android Studio with Flutter Plugin)
 ![IDE screenshot](/screenshots/desktop/Screenshot_2022-04-07_at_00.50.22.png?raw=true "Optional Title")
+
+
+After adding code to download the JSON and load the image from the URL
+
+Android:
+![Android screenshot](/screenshots/android/Screenshot_20220407_184001.png?raw=true "Optional Title")
+
+
+And the iOS:
+![iOS screenshot](/screenshots/ios/IMG_B211646CF69A-1.jpeg?raw=true "Optional Title")
+
+
